@@ -9,8 +9,8 @@ h2 {
 }
 
 .container {
-  max-width: 640px;
   margin: 0 auto;
+  width: 640px;
 }
 
 .d-flex {
@@ -26,9 +26,6 @@ h2 {
 }
 
 .footer {
-  padding: 48px;
-}
-
-.footer-text {
+  padding: 48px 0;
   text-align: center;
 }
