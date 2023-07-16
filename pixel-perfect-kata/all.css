@@ -1,0 +1,31 @@
+body {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+h2 {
+  font-size: 20px;
+  line-height: 1.2;
+}
+
+.container {
+  margin: 0 auto;
+  width: 640px;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.mr-20 {
+  margin-right: 20px;
+}
+
+.mb-24 {
+  margin-bottom: 24px;
+}
+
+.footer {
+  padding: 48px 0;
+  text-align: center;
+}
