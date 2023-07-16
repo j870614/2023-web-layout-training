@@ -1,4 +1,5 @@
 node_modules
-/.vscode
+pixel-perfect-kata-sample
+.vscode
 
 changelog.config.js
