@@ -1,0 +1,195 @@
+body {
+  font-family: 'Bruno Ace SC', cursive;
+  font-size: 24px;
+  line-height: 1.5;
+  margin-top: 40px;
+  color: #fff;
+  background-color: #000;
+}
+
+.container {
+  max-width: 1296px;
+  margin: 0 auto;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.item-center {
+  align-items: center;
+}
+
+.self-start {
+  align-self: start;
+}
+
+.self-end {
+  align-self: flex-end;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.nav-item {
+  color: #d1d1d1;
+  font-size: 16px;
+}
+
+.banner {
+  padding-top: 72px;
+  padding-bottom: 72px;
+}
+
+.banner-text {
+  max-width: 636px;
+}
+
+h2 {
+  font-size: 64px;
+}
+
+.banner-text h1 {
+  font-size: 128px;
+  color: #00ffa3;
+}
+
+.btn-while {
+  font-size: 16px;
+  color: #000;
+  background-color: #fff;
+  padding: 12px 24px;
+  border-radius: 32px;
+}
+
+.btn-black {
+  font-size: 16px;
+  color: #fff;
+  background-color: #000;
+  padding: 12px 24px;
+  border-radius: 32px;
+}
+
+.mr-4 {
+  margin-right: 16px;
+}
+
+.mr-5 {
+  margin-right: 20px;
+}
+
+.mr-6 {
+  margin-right: 24px;
+}
+
+.mb-6 {
+  margin-bottom: 24px;
+}
+
+.mb-7 {
+  margin-bottom: 28px;
+}
+
+.mb-8 {
+  margin-bottom: 32px;
+}
+
+.mb-9 {
+  margin-bottom: 36px;
+}
+
+.px-10 {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.px-24 {
+  padding-top: 96px;
+  padding-bottom: 96px;
+}
+
+.px-40 {
+  padding-top: 160px;
+  padding-bottom: 160px;
+}
+
+.introduction {
+  background-image: url(https://github.com/hexschool/2022-web-layout-training/blob/main/2023week2/background-img.png?raw=true);
+}
+
+.introduction-text {
+  width: 526px;
+}
+
+.personal-pictures {
+  width: 746px;
+}
+
+.about-me {
+  background: #fff;
+  color: #000;
+}
+
+.about-me-cards {
+  width: 636px;
+}
+
+.about-me-text {
+  width: 526px;
+}
+
+.card {
+  border: 1px solid #e3e3e3;
+  padding: 16px;
+  width: calc(50% - 12px);
+}
+
+.card__title {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.card__content {
+  font-size: 16px;
+}
+
+.contact-me .image {
+  object-fit: cover;
+  border-radius: 40px;
+  width: 162px;
+  height: 162px;
+}
+
+.sms-icons .image:hover {
+  box-shadow: 0px 0px 16px 3px rgba(144, 148, 255, 0.9);
+  border-radius: 40px;
+}
+
+.my-projects {
+  background-color: #fff;
+}
+
+.my-projects__title {
+  width: 746px;
+  margin-left: auto;
+  color: #000;
+}
+
+.picture-card p {
+  color: #000;
+}
+
+.footer p {
+  text-align: center;
+}
+
+
